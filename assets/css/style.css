@@ -40,6 +40,12 @@ h2 {
   font-style: italic;
 }
 
+img {
+  display: block;
+  margin: 0 auto;
+  margin-top: -25px;
+}
+
 /* break line */
 hr {
   height: 2px;
@@ -81,4 +87,8 @@ a:hover {
 
 a:active {
   color: brown;
+}
+
+.address {
+  margin-bottom: 5px;
 }
