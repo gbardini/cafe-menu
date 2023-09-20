@@ -41,6 +41,10 @@ hr {
   border-color: brown;
 }
 
+.bottom-line {
+  margin-top: 25px;
+}
+
 .item {
   display: flex;
   justify-content: space-between;
