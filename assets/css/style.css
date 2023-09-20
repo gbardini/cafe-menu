@@ -1,9 +1,11 @@
+/* body */
 body {
   background-image: url("../images/beans.jpeg");
   font-family: sans-serif;
   padding: 20px;
 }
 
+/* container */
 .menu {
   background-color: burlywood;
   width: 80%;
@@ -12,6 +14,7 @@ body {
   padding: 20px;
 }
 
+/* fonts */
 h1,
 h2,
 p {
@@ -35,6 +38,7 @@ h2 {
   font-style: italic;
 }
 
+/* break line */
 hr {
   height: 2px;
   background-color: brown;
@@ -45,6 +49,7 @@ hr {
   margin-top: 25px;
 }
 
+/* items */
 .item {
   display: flex;
   justify-content: space-between;
@@ -54,3 +59,5 @@ hr {
   margin: 5px 0;
   font-size: 18px;
 }
+
+/* footer */
