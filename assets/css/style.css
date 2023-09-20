@@ -1,0 +1,10 @@
+body {
+  background-image: url("../images/beans.jpeg");
+}
+
+.menu {
+  background-color: burlywood;
+  width: 80%;
+  margin: 0 auto;
+  max-width: 500px;
+}
